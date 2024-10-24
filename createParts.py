@@ -41,7 +41,7 @@ def main():
         st.image(image, caption="Original Image", use_column_width=True)
 
         # Slider to choose pixel size for the pixel art effect
-        pixel_size = st.slider("Select pixel size", 8, 64, 16)
+        pixel_size = st.slider("Select pixel size", 8, 128, 16)
 
         # Convert the image to pixel art
         pixel_art_image = create_pixel_art(image, pixel_size=pixel_size)
