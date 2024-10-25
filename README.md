@@ -1,2 +1,2 @@
 # pythonpixeldollz
-An earnest attempt at a drag and drop pixel doll maker using python.
+An earnest attempt at a pixel doll part maker using python.
